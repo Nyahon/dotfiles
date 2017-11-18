@@ -1,3 +1,4 @@
+#!/usr/bin/bash
 
 """ Autoreload of .vimrc (this file) "
 
